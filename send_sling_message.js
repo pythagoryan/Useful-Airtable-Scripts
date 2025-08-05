@@ -1,6 +1,6 @@
-// This script sends a message to a specific Sling conversation
-// Two secret input variables are required: the Sling API token and the conversation ID.
-// Other input variables can be added as needed.
+// This script sends a message to a specific Sling (https://getsling.com) conversation
+// Two secret input variables are required: the Sling API token and the conversation ID
+// Other input variables can be added as needed
 
 // Input data declaration & initialization
 const inputConfig = input.config();
